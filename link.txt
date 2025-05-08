@@ -1,0 +1,19 @@
+1a  drive.google.com
+1b dropbox.login
+2 https://www.adobe.com/express/create/website-page
+3 https://www.eclipse.org/che/gettingT-started/cloud/
+
+5 https://www.eclipse.org/downloads/packages/ 
+ 
+
+
+8 
+https://github.com/Cloudslab/cloudsim/releases/tag/cloudsi
+ m-3.0.3  
+
+b. https://archive.apache.org/dist/commons/math/binaries/com
+ mons-math3-3.6.1-bin.zip 
+
+b. https://www.eclipse.org/downloads/download.php?file=/technology/
+ epp/downloads/release/2024-03/R/eclipse-java-2024-03-R-win32
+x86_64
